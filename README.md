@@ -11,6 +11,8 @@
 ### Dependencies
 
 - CircuitPython 4.1.2
+- Additional CircuitPython Libraries
+  - `adafruit_motor`
 
 ## Resources
 
