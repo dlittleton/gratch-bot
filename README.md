@@ -12,6 +12,7 @@
 
 - CircuitPython 4.1.2
 - Additional CircuitPython Libraries
+  - `adafruit_irremote`
   - `adafruit_motor`
 
 ## Resources
