@@ -1,6 +1,11 @@
 # gratch-bot
  CircuitPython based laser turret.
 
+## Structure
+
+- ./src : Laser turret source
+- ./tools : Helper scripts used during development
+
 ## Dependencies
 
 ### Hardware
