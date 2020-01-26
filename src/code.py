@@ -143,7 +143,7 @@ while True:
     
     else:
     
-        if button == Button.StopMode:
+        if button == Button.StopMode or controls.mode:
             remote.clear_last_button()
             state = State.Idle
             cp.play_tone(500, .25)
