@@ -23,3 +23,4 @@
 ## Resources
 
 - [Pinout Diagram](https://learn.adafruit.com/adafruit-circuit-playground-express/pinouts)
+- [TTS to Wav](https://www.text2speech.org/)
