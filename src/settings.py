@@ -1,3 +1,11 @@
+import board
+
+class Pin:
+    ''' Pins used to connect hardware. '''
+    PAN = board.A1
+    TILT = board.A2
+    LASER = board.A3
+
 class Button:
     ''' Remote button codes corresponding to the Adafruit IR Remote '''
     VolumeDown = 0 #[255, 2, 255, 0]
